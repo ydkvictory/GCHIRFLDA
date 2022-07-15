@@ -1,0 +1,7 @@
+	AUC	AUPR
+fold_one	0.9902	0.7221
+fold_two	0.9895	0.6856
+fold_three	0.9921	0.727
+fold_four	0.9863	0.6835
+fold_five	0.9902	0.7018
+Average	0.9897	0.704
